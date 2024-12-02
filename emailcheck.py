@@ -1,8 +1,7 @@
 print("Hello to the email checker")
+print("This is the version 2 ")
 
 Email = input("emter the email id you want to check ")
-
-print(type(Email))
 
 parts = Email.split('@')
 x=0
